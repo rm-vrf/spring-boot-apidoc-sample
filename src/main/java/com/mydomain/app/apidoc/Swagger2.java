@@ -29,9 +29,6 @@ public class Swagger2 {
         return new ApiInfoBuilder()
                 .title("Spring Boot API Doc Sample")
                 .description("Hello world!")
-                .termsOfServiceUrl("https://github.com/lane-cn/spring-boot-apidoc-sample")
-                .contact("https://github.com/lane-cn")
-                .version("1.0.0-SNAPSHOT")
                 .build();
     }
     
